@@ -1,0 +1,1 @@
+# Talos GitOps Pipeline - Initialized
